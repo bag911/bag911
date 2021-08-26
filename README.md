@@ -1,4 +1,4 @@
-### Hi there, I'm Bagish - aka [bag911]<!-- [website] --> 👋
+### Hi there, I'm Bagish - aka bag911<!-- [website] --> 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -73,7 +73,7 @@
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/blaqbag
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/bagish-bagishev-37aa18210/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 <!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
