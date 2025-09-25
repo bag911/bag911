@@ -5,11 +5,11 @@
 
 ## I'm Android Developer
 
-<p align="center">
+<!-- <p align="center">
 <img src='https://github-readme-stats-friederbluemle.vercel.app/api?username=bag911&show_icons=true&hide=stars&count_private=true&card_width=418' alt='GitHub Stats' width='418'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/1x1_placeholder.png" width="8px" alt=""/>
 <img src='https://github-readme-stats.friederbluemle.vercel.app/api/top-langs/?username=bag911&hide=swift,php&layout=compact&card_width=418' alt='Most Used Languages' width='418'>
-</p>
+</p> -->
 
 <!-- Text -->
 
